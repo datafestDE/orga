@@ -20,6 +20,10 @@ Hauptverzeichnis Eures Projekts an.
 ## Organisatorisches
 - **Hinweise und Anleitungen von den Organisatoren findet Ihr im 
 [Orga-Wiki](https://gitlab.com/datafest15de/orga/wikis/home)**
+- Hinweise zur [Anreise](https://gitlab.com/datafest15de/orga/wikis/VenueandDirections)
+- [Zeitplan](https://gitlab.com/datafest15de/orga/wikis/Schedule)
+
+## Links
 - [DataFest-Homepage des Lehrstuhls](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/)
 - [DataFest Germany auf Twitter](https://twitter.com/DataFestGermany)
 - Twitter-Hashtag: **[DF15DE](https://twitter.com/hashtag/DF15DE?src=hash)**
