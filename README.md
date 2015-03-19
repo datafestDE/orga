@@ -15,11 +15,15 @@ anlegen](https://gitlab.com/projects/new?namespace_id=132941)**. Bitte beachtet
 dabei immer die Nutzungsrichtlinien und geht freundlich miteinander um :) 
 
 Ach ja und legt bitte immer eine [.gitignore](./.gitignore)-Datei im 
-Hauptverzeichnis Eures Projekts and
+Hauptverzeichnis Eures Projekts an.
 
 ## Organisatorisches
 - **Hinweise und Anleitungen von den Organisatoren findet Ihr im 
 [Orga-Wiki](https://gitlab.com/datafest15de/orga/wikis/home)**
+- [DataFest-Homepage des Lehrstuhls](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/)
+- [DataFest Germany auf Twitter](https://twitter.com/DataFestGermany)
+- Twitter-Hashtag: **[DF15DE](https://twitter.com/hashtag/DF15DE?src=hash)**
+- [Facebook-Seite](https://www.facebook.com/groups/DataFestGermany/)
 
 ## Git lernen
 Ein knappe Anleitung zur Einrichtung und Nutzung von Git findet Ihr im 
