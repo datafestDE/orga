@@ -10,9 +10,12 @@ als zentrale Plattform für die Entwicklung Eurer DataFest-Projekte zur Verfügu
 [Gitlab-Account](https://gitlab.com/users/sign_in) an und schickt dann eine Mail
 *mit dem Benutzernamen* an gitlab@datafest.de um Zugriffsrechte zu bekommen.**
 
-Danach könnt Ihr unter unserem gemeinsamen DataFest-Dach eigene Git-Projekte 
-anlegen. Bitte beachtet dabei immer die Nutzungsrichtlinien und geht freundlich 
-miteinander um :) 
+Danach könnt Ihr unter unserem gemeinsamen DataFest-Dach **[eigene Git-Projekte 
+anlegen](https://gitlab.com/projects/new?namespace_id=132941)**. Bitte beachtet 
+dabei immer die Nutzungsrichtlinien und geht freundlich miteinander um :) 
+
+Ach ja und legt bitte immer eine [.gitignore](./.gitignore)-Datei im 
+Hauptverzeichnis Eures Projekts and
 
 ## Organisatorisches
 - **Hinweise und Anleitungen von den Organisatoren findet Ihr im 
