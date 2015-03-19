@@ -1,5 +1,7 @@
+![DataFest](img/Datafest_small.png)
+
 # DataFest Germany 2015
-Willkommen bein DataFest Germany 2015, dem erste seiner Art!
+Willkommen beim DataFest Germany 2015, dem ersten seiner Art!
 
 Die Gitlab-Gruppe [datafest2015de](https://gitlab.com/groups/datafest15de) steht 
 als zentrale Plattform für die Entwicklung Eurer DataFest-Projekte zur Verfügung.
