@@ -26,7 +26,7 @@ Hauptverzeichnis Eures Projekts an.
 ## Links
 - [DataFest-Homepage des Lehrstuhls](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/)
 - [DataFest Germany auf Twitter](https://twitter.com/DataFestGermany)
-- Twitter-Hashtag: **[DF15DE](https://twitter.com/hashtag/DF15DE?src=hash)**
+- Twitter-Hashtag: **[#DF15DE](https://twitter.com/hashtag/DF15DE?src=hash)**
 - [Facebook-Seite](https://www.facebook.com/groups/DataFestGermany/)
 
 ## Git lernen
