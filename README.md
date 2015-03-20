@@ -14,8 +14,8 @@ Danach könnt Ihr unter unserem gemeinsamen DataFest-Dach **[eigene Git-Projekte
 anlegen](https://gitlab.com/projects/new?namespace_id=132941)**. Bitte beachtet 
 dabei immer die Nutzungsrichtlinien und geht freundlich miteinander um :) 
 
-Ach ja und legt bitte immer eine [.gitignore](./.gitignore)-Datei im 
-Hauptverzeichnis Eures Projekts an.
+Ach ja und bitte denkt daran **keine Datensätze hochzuladen!** Dabei hilft es, wenn Ihr immer eine [.gitignore](./.gitignore)-Datei im 
+Hauptverzeichnis Eures Projekts anlegt.
 
 ## Organisatorisches
 - **Hinweise und Anleitungen von den Organisatoren findet Ihr im 
@@ -23,13 +23,13 @@ Hauptverzeichnis Eures Projekts an.
 - Hinweise zur [Anreise](https://gitlab.com/datafest15de/orga/wikis/VenueandDirections)
 - [Zeitplan](https://gitlab.com/datafest15de/orga/wikis/Schedule)
 
+## Git lernen
+Ein knappe Anleitung zur Einrichtung und Nutzung von Git findet Ihr im 
+[Git-Guide](http://rogerdudler.github.io/git-guide/index.de.html) oder Ihr macht
+gleich einen (kurzen!) [Online-Kurs](https://try.github.io/)
+
 ## Links
 - [DataFest-Homepage des Lehrstuhls](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/)
 - [DataFest Germany auf Twitter](https://twitter.com/DataFestGermany)
 - Twitter-Hashtag: **[#DF15DE](https://twitter.com/hashtag/DF15DE?src=hash)**
 - [Facebook-Seite](https://www.facebook.com/groups/DataFestGermany/)
-
-## Git lernen
-Ein knappe Anleitung zur Einrichtung und Nutzung von Git findet Ihr im 
-[Git-Guide](http://rogerdudler.github.io/git-guide/index.de.html) oder Ihr macht
-gleich einen (kurzen!) [Online-Kurs](https://try.github.io/)
