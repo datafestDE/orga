@@ -25,7 +25,7 @@ Hauptverzeichnis Eures Projekts anlegt.
 
 ## Code
 - [R-Code für Maltes JSON-Workshop](json.r)
-- [R-Code von Felix für get_local_time](get_local_time.R)
+- [R-Code von den NumberCrunchers (Felix, Pascal, Ulf, Sven & Theresa) für get_local_time](get_local_time.R)
 
 ## Präsentationen
 - [Welcome Presentation](Welcome_Presentation_DF15DE.pdf)
