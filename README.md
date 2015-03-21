@@ -32,6 +32,7 @@ Hauptverzeichnis Eures Projekts anlegt.
 - [Data Wrangling Workshop](data_wrangling_workshop.html)
 - [ggplot2 Workshop](ggplot2_workshop.html)
 - [RGoogleMaps Workshop](Presentation RGoogleMaps.pdf)
+- [SAP Midnight Challenge](DataFest Midnight Challenge Instructions.pdf)
 
 
 ## Git lernen
