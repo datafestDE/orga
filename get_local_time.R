@@ -25,7 +25,7 @@ get_local_time <- function(ts,tz,longitude){
 
 
 
-## Demonstation
+## Demonstration
 
 # Load subset of data
 library(data.table)
@@ -42,4 +42,3 @@ loc$EndMeasurement_ts_local <-
   get_local_time(ts = loc$EndMeasurement_ts,
                  tz = loc$EndMeasurement_tz,
                  longitude = loc$LongitudeOnEnd)
-
