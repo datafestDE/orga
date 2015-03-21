@@ -23,6 +23,17 @@ Hauptverzeichnis Eures Projekts anlegt.
 - Hinweise zur [Anreise](https://gitlab.com/datafest15de/orga/wikis/VenueandDirections)
 - [Zeitplan](https://gitlab.com/datafest15de/orga/wikis/Schedule)
 
+## Code
+- [R-Code für Maltes JSON-Workshop](json.r)
+- [R-Code von den NumberCrunchers (Felix, Pascal, Ulf, Sven & Theresa) für get_local_time](get_local_time.R)
+
+## Präsentationen
+- [Welcome Presentation](Welcome_Presentation_DF15DE.pdf)
+- [Data Wrangling Workshop](data_wrangling_workshop.html)
+- [ggplot2 Workshop](ggplot2_workshop.html)
+- [RGoogleMaps Workshop](Presentation RGoogleMaps.pdf)
+
+
 ## Git lernen
 Ein knappe Anleitung zur Einrichtung und Nutzung von Git findet Ihr im 
 [Git-Guide](http://rogerdudler.github.io/git-guide/index.de.html) oder Ihr macht
